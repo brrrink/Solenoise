@@ -31,7 +31,7 @@ The resurgence of analog modular synthesis, coupled with advancements in physica
 
 ## Installation
 
-- **Clone the repository**: git clone https://bitbucket.org/johnharding/solenoise.git
+- **Clone the repository**: git clone https://github.com/brrrink/Solenoise/solenoise.git
 - cd solenoise
 - Use Platformio to upload firmware to Teensy 4.0, hardware is available to purchase with pre-mounted SMD components or see the Solenoise Production Files folder, for all production ready design files.
 - Upload these design files to the PCB manufacturer of your choice, who should be able to provide full soldered SMD PCB's from these files.
