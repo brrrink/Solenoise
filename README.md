@@ -94,5 +94,5 @@ All non commercial use is approved.
 
 Steal this code.
 
-Commercial use is not approved without consent, contact the authour for more details: j.harding@ulster.ac.uk
+Commercial use is not approved without consent, contact the authour for more details: anon@anon.com
 
